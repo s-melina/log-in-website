@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Agency FB";
+}
+body{
+    background: url("img/image.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.wrapper{
+    display: flex;
+    min-height: 110vh;
+    background: rgba(39, 39, 39, 0.4);
+}
